@@ -11,8 +11,8 @@ This project is a Django web application that includes a login functionality usi
 The project has the following directory structure:
 
 ```
-mi-proyecto
-├── mi_proyecto
+formulario_calidad_personal
+├── formulario_calidad_personal
 |   ├── __init__.py
 |   ├── settings.py
 |   ├── urls.py
